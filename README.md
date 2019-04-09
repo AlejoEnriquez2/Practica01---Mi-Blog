@@ -61,7 +61,7 @@ La mayoría de las páginas siguen estrictamente este formato, otras tienen cier
 ## **Conclusiones**
   ### Pude evidenciar la manera en la que funcionan las etiquetas de texto, listas, tablas entre otras. Los errores indicados por la herramienta W3C fueron fácilmente corregidos, como el atributo alternativo que hay que poner en todas las imágenes o el texto inicial en los articulos. Las imágenes e hipervínculos no presentaron ninguna dificultad.
 ## **Nombre del Estudiante:** Alejandro Sebastian Enríquez Mancheno
-### **Correo Institucional: ** aenriquezm2@est.ups.edu.ec
+### **Correo Institucional:** aenriquezm2@est.ups.edu.ec
 ### **URL**
   ## Mi Blog: https://github.com/AlejoEnriquez2/Practica01---Mi-Blog.git
   ## Restaurant: https://github.com/AlejoEnriquez2/Tarea1
