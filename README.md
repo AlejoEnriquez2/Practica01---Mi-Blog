@@ -48,6 +48,13 @@ La mayoría de las páginas siguen estrictamente este formato, otras tienen cier
   ![](images/i20.png)
 ## **8. Listas y etiquetas de texto**
   ### Las listas fueron utilizadas en diferentes páginas como por ejemplo en una serie de pasos a seguir. En otra página para poner una lista de las autoridades, y para menús. En todas las páginas se usan diversas etiquetas de modificación de texto.
+  ![](images/i23.png)
+##**8. Navegación con ID**
+  ![](images/i21.png)
+  ### En la página de promociones se crearon 2 secciones con 3 artículos en cada una de ellas, cada artículo con un ‘id’ que lo usaremos para poder llamar al artículo con un hipervínculo de la siguiente manera.
+  ![](images/i22.png)
+##**9. Blockquote**
+  ### He utilizado otras etiquetas como por ejemplo <blockquote> que crea un margen para el párrafo, haciendo que se diferencie de los títulos. 
   
 
 
